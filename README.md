@@ -1,21 +1,21 @@
 # RVCv2-No-Ui-Colab
 
-in this colab.
-i replace original pretrained model with custom pretrained model Ov2SUper (32k) & SnowieV3.1-X-RinE3 (40k)
-i use this model only for realtime voice conversation
+## Description
 
-Ov2 Super by SimplCup
-Works well for small and English datasets. Additionally, it allows models to train with very few epochs compared to regular pretrains. 
-~fast training
-~high quality
+In this Colab notebook, I have replaced the original pretrained model with custom pretrained models: Ov2SUper (32k) and SnowieV3.1-X-RinE3 (40k). This model is specifically designed for real-time voice conversations.
 
-SnowieV3 X RIN_E3 by Mustar
-Works well with Russian or Japanese language datasets and also helps models of other languages to pronounce Russian or Japanese well. 
-~better R speak for language with R word needed
-~high quality
+### Ov2 Super by SimplCup
+- Works efficiently with small English datasets.
+- Enables models to train with fewer epochs compared to regular pretraining.
+- Provides fast training and high-quality results.
 
+### SnowieV3 X RIN_E3 by Mustar
+- Optimized for Russian or Japanese language datasets.
+- Enhances pronunciation of Russian or Japanese words for models of other languages.
+- Provides better pronunciation for languages requiring "R" sounds.
+- Delivers high-quality output.
 
-@credit for 
-~Ardha
-~SimplCup
-~Mustar
+## Credits
+- Ardha
+- SimplCup
+- Mustar
